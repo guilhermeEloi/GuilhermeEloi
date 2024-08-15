@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
@@ -77,7 +77,6 @@
 </br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=227o5yjpywezh6jym7pcs7cpy&cover_image=true&theme=novatorem&show_offline=false&background_color=00000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=227o5yjpywezh6jym7pcs7cpy&redirect=true)
-
 
 ###
 
