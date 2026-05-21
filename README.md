@@ -68,7 +68,7 @@
 <img src="https://raw.githubusercontent.com/guilhermeEloi/guilhermeEloi/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<!--
   <div align="left">
   
   <h2>:notes: What I'm listening
@@ -76,6 +76,7 @@
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=227o5yjpywezh6jym7pcs7cpy&cover_image=true&theme=novatorem&show_offline=false&background_color=00000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=227o5yjpywezh6jym7pcs7cpy&redirect=true)
   
   </div>
+  -->
 
 ###
 
